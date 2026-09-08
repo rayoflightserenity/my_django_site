@@ -1,0 +1,89 @@
+SOURCE-AVAILABLE VIEW-ONLY LICENSE
+Version 1.0, 2026
+
+Copyright © 2026 rayoflightserenity. All rights reserved.
+
+1. PERMITTED ACTIONS
+
+The software, including its source code, documentation, and any associated files (collectively, the "Work"), is made available solely for personal, educational, and internal review purposes.
+
+You are granted a non-exclusive, non-transferable, revocable right to:
+- View, read, and inspect the source code of the Work.
+- Study the structure, logic, and algorithms embodied in the Work for non-competitive learning purposes.
+
+Any use beyond this explicit grant is strictly prohibited unless separately authorised in writing by the Copyright Holder.
+
+2. RESTRICTIONS
+
+Except as expressly permitted herein, you may not, directly or indirectly:
+
+- Copy, clone, duplicate, or reproduce the Work in whole or in substantial part, whether by manual means, automated scripts, version-control systems, or any other method.
+
+- Modify, adapt, translate, reverse engineer, decompile, or disassemble any portion of the Work.
+
+- Merge, combine, or integrate any part of the Work with other software or projects.
+
+- Publish, display, or distribute the Work or any derivative thereof to any third party, whether publicly or privately.
+
+- Sublicense, rent, lease, or transfer your rights under this License.
+
+- Use the Work, or any portion thereof, in any commercial product, service, or internal business operation – including but not limited to proprietary, open-source, or revenue-generating projects – without explicit prior written consent from the Copyright Holder.
+
+Any attempted use in violation of these restrictions immediately and automatically terminates your rights under this License and may subject you to legal action.
+
+3. INDIVIDUAL FILES PERMISSION
+
+Copying or reusing individual source-code files, snippets, or isolated portions of the Work is strictly forbidden unless you obtain prior, explicit, written authorisation from the Copyright Holder (rayoflightserenity).
+
+Such authorisation, if granted, will be provided in a separate signed document or email message and will specify the exact files, purpose, and duration of use. Without such written permission, any extraction or reuse of individual files constitutes a material breach of this License.
+
+4. DISCLAIMER OF WARRANTIES AND LIABILITY
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR ITS CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
+
+The entire risk as to the quality, performance, and correctness of the Work rests with you. The Copyright Holder does not warrant that the Work will meet your requirements or that its operation will be uninterrupted or error-free.
+
+5. GOVERNING LAW
+
+This License shall be governed by and construed in accordance with the laws of Ukraine, without regard to its conflict-of-law provisions. Any dispute arising under or in connection with this License shall be subject to the exclusive jurisdiction of the competent courts located in Ukraine.
+
+6. CONTACT FOR PERMISSIONS AND REQUEST PROCEDURE
+
+Any request for permission to use, copy, or modify the Work beyond the scope of this License must be addressed to:
+
+Copyright Holder: rayoflightserenity
+Email: ray.of.light.serenity@gmail.com
+
+To streamline the process, requesters (including friends and other users) may use the following standard template:
+
+--- REQUEST TEMPLATE ---
+Subject: Permission Request for [FILE/FUNCTION NAME] – [YOUR NAME]
+
+Dear Copyright Holder,
+
+I am writing to request explicit written permission to use a specific part of your Work (Source-Available View-Only License, 2026) beyond the standard view-only terms.
+
+- File/Function name(s): [SPECIFY EXACT FILE OR FUNCTION NAME]
+- Intended purpose: [DESCRIBE EXACTLY HOW AND WHERE YOU INTEND TO USE IT]
+- Project context (if any): [OPTIONAL, BUT RECOMMENDED]
+- Duration of use: [SPECIFY PERIOD OR "ONE-TIME USE"]
+
+I confirm that I have read and fully understand the restrictions of your License and agree to comply with all its terms. I will not use the code for any other purpose without obtaining an additional permission.
+
+Thank you for your consideration.
+
+Sincerely,
+[YOUR FULL NAME]
+[YOUR CONTACT EMAIL / PHONE]
+--- END TEMPLATE ---
+
+Official Granting of Permission:
+The Copyright Holder (rayoflightserenity) may grant the requested permission by responding to the submitted request with any clear affirmative acknowledgment, including but not limited to the words "YES", "Так", the symbol "+", or any other unequivocal affirmative statement that clearly references the original request.
+
+Such a reply shall constitute a legally binding, official written permission for the specific use described in the request. No formal counter-signature, notarisation, or separate physical contract shall be required for such permission to take effect, provided that the response is sent from the official email address (ray.of.light.serenity@gmail.com) and preserves the original request context. The permission applies strictly to the scope defined in the request and does not extend to any other files, functions, or purposes.
+
+This License constitutes the entire agreement between the parties with respect to the Work and supersedes all prior or contemporaneous understandings. If any provision of this License is held to be unenforceable, the remaining provisions shall remain in full force and effect.
+
+End of License
