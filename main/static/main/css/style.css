@@ -1,5 +1,5 @@
 body {
-    background-color: #eef2f5;
+    background-color: #050608;
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
@@ -9,8 +9,8 @@ body {
 }
 
 h1 {
-    color: #2b3a4a;
-    background-color: #ffffff;
+    color: #c40c49;
+    background-color: #43c40c;
     padding: 25px 40px;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
